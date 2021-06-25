@@ -1,0 +1,13 @@
+#desc{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#desc h1{
+    color: rgb(3, 65, 180);
+}
+#desc p{
+    color: gray;
+}
+.bold{
+    font-weight: bold;
+    color: rgb(71, 71, 71);
+}

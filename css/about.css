@@ -1,0 +1,18 @@
+.aboutquote{
+    font-size: 25px;
+    color:rgb(3, 65, 180) ;
+}
+p{
+    font-size: 16px;
+    padding:0px;
+    color: rgb(80, 79, 79);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#notes{
+    background-color: rgba(130, 202, 238, 0.2);
+}
+#aboutdesc img{
+    position: relative;
+    left: 30px;
+    top: 125px;
+}

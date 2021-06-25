@@ -1,0 +1,108 @@
+@font-face {
+    font-family: AlexBrush;
+    src: url('../font/AlexBrush-Regular.ttf');
+}
+.title{
+    text-align: center;
+    font-family: AlexBrush;
+    color:rgb(0, 46, 130);
+    font-size: 70px;
+}
+.sub-title{
+    color:rgb(114, 119, 167);
+    text-align: center;
+    position: relative;
+    bottom: 70px;
+    font-size: 20px;
+}
+.menuitem
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color:rgb(177, 175, 179) ;
+    padding: 8px 0px ;
+    color:white;
+    margin: 0px 0px;
+}
+nav a{
+    text-decoration: none;
+}  
+.menuitem:hover{
+ color:black;
+ background-color:rgba(0, 46, 130,0.3);   
+}
+#banner img{
+    margin: 10px 0px;
+}
+#info{
+    position:relative;
+    bottom:150px;
+}
+#info h3{
+    color:rgb(34, 43, 124);
+    padding-left: 10px;
+}
+#info img{
+    position:relative;
+    bottom:10px;
+}
+#info p{
+    text-indent: 20px;
+    color: rgb(82, 81, 81);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    padding: 10px;
+}
+.s1,.s2,.s3{
+    background-color: rgba(180, 179, 179,0.3);
+}
+#media{
+    position:relative;
+    top:-50px;
+}
+footer{
+    margin: 10px 0px;
+    background-color: rgba(180, 179, 179,0.5);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer h2{
+    color: rgb(0, 46, 130);
+    
+}
+footer p{
+    font-size: 1.1em;
+}
+#copyright
+{
+    text-align: center;
+    background-color:rgb(0, 46, 130);
+    color: white;
+    padding:10px;
+    
+}
+.deco{
+    height:40px;
+    width:940px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 46, 130);
+}
+.quote{
+    background-color:rgba(139, 138, 138,0.5);
+    color: white;
+    position: relative;
+    bottom:540px;
+    left:20px;
+    padding:20px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.foot{
+    color: rgb(0, 46, 130);
+}
+nav{
+    background-color:rgb(177, 175, 179) ;
+    margin:10px 0px;
+    margin-left: 0px;
+}

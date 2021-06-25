@@ -1,0 +1,10 @@
+#description h1,h2{
+    color: rgb(3, 65, 180);
+}
+#description{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#description p{
+    color: gray;
+
+}
